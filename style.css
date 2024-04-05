@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color:  hsl(212, 45%, 89%);
+    width: 1440px;
+}
+
+main {
+    background-color: white;
+    border-radius: 15px;
+    margin: 250px 400px 250px 700px;
+    padding: 25px;
+    width: 400px;
+    text-align: center;
+
+}
+
+#qrCode {
+    border-radius: 15px;
+    width: 400px;
+    text-align: center;
+}
+
+#heading1 {
+    font-family: Arial;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    
+}
+
+#para {
+    color: hsl(220, 15%, 55%);
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.instruction {
+    width: 400px;
+    text-align: center;
+}
