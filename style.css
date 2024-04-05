@@ -7,9 +7,9 @@ body {
 main {
     background-color: white;
     border-radius: 15px;
-    margin: 250px 400px 250px 700px;
+    margin: 150px 400px 250px 500px;
     padding: 25px;
-    width: 400px;
+    width: 300px;
     text-align: center;
 
 }
@@ -24,7 +24,7 @@ main {
 
 #qrCode {
     border-radius: 15px;
-    width: 400px;
+    width: 300px;
     text-align: center;
 }
 
@@ -44,6 +44,6 @@ main {
 }
 
 .instruction {
-    width: 400px;
+    width: 300px;
     text-align: center;
 }
