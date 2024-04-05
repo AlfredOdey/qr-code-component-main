@@ -28,7 +28,7 @@ I could not make use of the sample font family, so I used Arial.
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic and non-semantic HTML5 markup
 - CSS
 
 ### Continued development
